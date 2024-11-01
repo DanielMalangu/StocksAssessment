@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights.sdk",
+      "dynamicId": null
+    },
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:StocksServerContextConnection"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿
+#chart-test {
+    height: 450px;
+    width: 1000px;
+}
+
+#zoomedChart {
+    height: 315px;
+    margin: 0 0 15px;
+}
+
+#chart-test > div:not(#zoomedChart) {
+    height: 120px;
+}
